@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="#">
-    <img alt="Code Capsules" title="Code Capsules" src="./icon.png" width="400" style="color: black">
+    <img alt="Code Capsules" title="Code Capsules" src="./icon.png" width="300" style="color: black">
   </a>
 </p>
 
